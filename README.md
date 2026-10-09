@@ -76,7 +76,7 @@ The business generated over **R190 million in revenue**, approximately **R172 mi
 
 ### Product Performance
 
-<img src="product-performance.png" width="600">
+<img src="retail-product-performance.png" width="600">
 
 Electronics generated almost **R100 million in revenue**, making it the strongest-performing category. Furniture ranked second at approximately **R48 million**, despite recording fewer than 20,000 units sold. Stationery sold more than 20,000 units but generated substantially less revenue than Furniture.
 
