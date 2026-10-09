@@ -90,6 +90,18 @@ The Eastern Cape generated over **R14 million in combined provincial revenue**, 
 **Business action:** Investigate what drives the Eastern Cape's performance and use the findings to inform regional sales strategies. Review monthly fluctuations to determine whether seasonality, product availability or changes in demand explain the differences.
 
 ### Product Returns
+
+```sql
+-- RETURNS RATE
+SELECT
+(
+    COUNT(DISTINCT OrderID) * 1.0 
+    /
+    (SELECT COUNT(*) FROM Orders) 
+) * 100 AS ReturnRate
+FROM Returns;
+```
+
 The overall order return rate was **10.06%**, meaning approximately 10 out of every 100 orders resulted in a return record.
 
 **Business action:** Analyse returns by product, category and sales channel to identify where returns are concentrated. Understanding the causes could help reduce avoidable returns, associated costs and potential losses in profitability.
