@@ -42,7 +42,32 @@ I translated the results into business implications and recommendations, focusin
 ### Revenue and Profitability
 
 ```sql
+-- Total Revenue
+SELECT 
+    SUM(p.UnitPrice * o.Quantity) AS [Total Revenue] 
+FROM Products AS P 
+JOIN Orders AS O 
+    ON p.productid = o.productid; 
 
+-- Revenue after Discount
+SELECT
+    SUM(
+        p.UnitPrice * o.Quantity * (1 - o.Discount)
+    ) AS [Discounted Revenue]
+FROM Products AS p
+JOIN Orders AS o
+    ON p.ProductID = o.ProductID;
+
+-- Profit after discount
+SELECT
+    SUM(
+        (p.UnitPrice * o.Quantity * (1 - o.Discount))
+        -
+        (p.CostPrice * o.Quantity)
+    ) AS [Total Profit]
+FROM Products AS p
+JOIN Orders AS o
+    ON p.ProductID = o.ProductID;
 ```
 
 The business generated over **R190 million in revenue**, approximately **R172 million in discounted revenue**, and **R56 million in total profit**.
