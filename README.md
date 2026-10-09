@@ -91,6 +91,9 @@ The Corporate sales channel generated approximately **R72.9 million**, accountin
 **Business action:** Protect and develop the Corporate channel through strong customer relationships and reliable fulfilment. Further analysis of customer-level purchasing patterns could help identify opportunities to grow revenue from other segments.
 
 ### Geographical and Monthly Performance
+
+<img src="geographic-peformance.png" width="600">
+
 The Eastern Cape generated over **R14 million in combined provincial revenue**, while Johannesburg was the highest-revenue individual city, generating over R2 million. Revenue peaked in **July at more than R16.5 million**, while February recorded the lowest monthly revenue.
 
 <img src="monthly-performance.png" width="600">
