@@ -151,7 +151,7 @@ Further analysis could investigate:
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Retail-Sales-Dashboard.png)
+<img src="Retail%20Sales%20Performance%20Dashboard.png" width="600">
 
 ## Final Takeaway
 
