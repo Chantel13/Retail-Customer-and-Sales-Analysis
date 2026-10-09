@@ -75,17 +75,25 @@ The business generated over **R190 million in revenue**, approximately **R172 mi
 **Business action:** Management should evaluate discount performance to determine whether the additional sales justify the reduction in revenue and potential pressure on profit margins.
 
 ### Product Performance
+
+<img src="product-performance.png" width="600">
+
 Electronics generated almost **R100 million in revenue**, making it the strongest-performing category. Furniture ranked second at approximately **R48 million**, despite recording fewer than 20,000 units sold. Stationery sold more than 20,000 units but generated substantially less revenue than Furniture.
 
 **Business action:** Maintain reliable stock availability for high-revenue Electronics products. Assess product-level margins and demand before making inventory decisions, and avoid treating high sales volumes as a guarantee of high financial contribution.
 
 ### Customer and Sales Channel Performance
+
+<img src="sales-channel-performance.png" width="600">
+
 The Corporate sales channel generated approximately **R72.9 million**, accounting for around **38% of total revenue**.
 
 **Business action:** Protect and develop the Corporate channel through strong customer relationships and reliable fulfilment. Further analysis of customer-level purchasing patterns could help identify opportunities to grow revenue from other segments.
 
 ### Geographical and Monthly Performance
 The Eastern Cape generated over **R14 million in combined provincial revenue**, while Johannesburg was the highest-revenue individual city, generating over R2 million. Revenue peaked in **July at more than R16.5 million**, while February recorded the lowest monthly revenue.
+
+<img src="monthly-performance.png" width="600">
 
 **Business action:** Investigate what drives the Eastern Cape's performance and use the findings to inform regional sales strategies. Review monthly fluctuations to determine whether seasonality, product availability or changes in demand explain the differences.
 
